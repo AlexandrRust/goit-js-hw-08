@@ -35,3 +35,4 @@ function submitForm(e) {
     localStorage.clear()
     console.log(formData);
 }
+// console.log(object);
